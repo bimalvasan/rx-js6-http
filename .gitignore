@@ -1,0 +1,6 @@
+/.typingsrc
+/.DS_Store
+node_modules
+typings
+package-lock.json
+typings.json
